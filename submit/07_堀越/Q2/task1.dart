@@ -10,6 +10,8 @@ void main() {
       
       row += '${(x * y).toString().padLeft(2)} ';
 
+
+
     }
     print(row);
   }

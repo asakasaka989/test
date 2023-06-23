@@ -7,6 +7,8 @@ void main(){
    //マイナス（ー）を付けて昇順から降順に
    num.sort((a, b) => -a.compareTo(b));
 
+
+
    print(num);
 
 }
